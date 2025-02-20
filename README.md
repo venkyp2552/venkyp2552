@@ -1,35 +1,32 @@
-<h1 align="center">Hey there! 👋 I'm Venkaiah P</h1>
+<h1 align="center">Hey there! 👋 I'm [Your Name]</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&color=F7BE38&width=600&lines=Frontend+Developer+🚀;Smart+Contract+Security+Auditor+🔐;Blockchain+Researcher+🛠️;Always+learning+new+things!">
 </p>
 
 ### 🏆 About Me
-- 🔥 **Frontend Developer** (React.js, Next.js, Tailwind, TypeScript)
 - 🔐 **Smart Contract Security Auditor** (Foundry, Slither, Echidna)
 - 📖 **Smart Contract Researcher** (Ethereum, Solana, ZK-Rollups)
 - 🏗 **Building Web3 DApps & Security Tools**
 - 🎯 Passionate about **Blockchain Security & Open Source Contributions**
+- 🔥 **Frontend Developer** (React.js, Jquery, Javascript, HTML, CSS,Tailwind)
 - 🌱 Always learning **Solidity Best Practices & Web3 Security**
 
 ---
 
 ### 🛠️ Tech Stack
 #### **Frontend**
-- **Languages:** JavaScript, TypeScript, HTML, CSS
-- **Frameworks:** React.js, Next.js
-- **Styling:** TailwindCSS, Styled Components
-- **Testing:** Jest, Cypress
+- **Languages:** JavaScript, HTML, CSS
+- **Frameworks:** React.js
+- **Styling:** TailwindCSS, Bootstrap Components
 
 #### **Smart Contract Development & Security**
-- **Languages:** Solidity, Yul, Huff
-- **Auditing Tools:** Slither, Mythril, Foundry, Echidna, Manticore
-- **Libraries:** OpenZeppelin, Hardhat, Foundry, Truffle
+- **Languages:** Solidity,Javascript
+- **Auditing Tools:** Slither, Mythril, Foundry
+- **Libraries:** OpenZeppelin, Hardhat, Foundry
 
 #### **Other**
-- **Database:** PostgreSQL, MongoDB
-- **Cloud & DevOps:** Docker, AWS, Vercel
-
+- **Database:** MongoDB
 ---
 
 ### 🔥 GitHub Stats  
